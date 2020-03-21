@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1579247602 source:d:\important c++ codes\ginger game\main.cpp
+	<bits/stdc++.h>
+	"User.h"
+	"Formatter.h"
+	"Game.h"
+
+1579243172 d:\important c++ codes\ginger game\user.h
+	<bits/stdc++.h>
+
+1579249741 source:d:\important c++ codes\ginger game\user.cpp
+	<bits/stdc++.h>
+	"User.h"
+	"Game.h"
+
+1579247112 source:d:\important c++ codes\ginger game\formatter.cpp
+	<bits/stdc++.h>
+	"Formatter.h"
+	"User.h"
+
+1579164131 d:\important c++ codes\ginger game\formatter.h
+	"User.h"
+
+1579246482 d:\important c++ codes\ginger game\game.h
+	<bits/stdc++.h>
+
+1579249919 source:d:\important c++ codes\ginger game\game.cpp
+	<bits/stdc++.h>
+	"Game.h"
+	"Formatter.h"
+	"Reading Mind Game.h"
+
+1579160093 source:d:\important c++ codes\ginger game\test.cpp
+
+1579246629 d:\important c++ codes\ginger game\reading mind game.h
+	"Game.h"
+
+1579254902 source:d:\important c++ codes\ginger game\reading mind game.cpp
+	<bits/stdc++.h>
+	"dos.h"
+	"Reading Mind Game.h"
+
